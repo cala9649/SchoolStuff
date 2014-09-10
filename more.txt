@@ -1,1 +1,3 @@
 This is another file, so that I have a few files.
+
+I'm making changes to commit.
